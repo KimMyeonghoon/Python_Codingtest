@@ -3,4 +3,4 @@ moon= 0.165
 
 sum = chu * moon
 
-print(f"chu" : {chu.4f}, "*", f"moon":{moon.4f})
+print(chu,"+", f"moon: {moon:.6f}", "=", sum)
