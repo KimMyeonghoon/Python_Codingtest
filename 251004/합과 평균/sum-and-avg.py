@@ -1,4 +1,5 @@
-A, B= map(int, input(),split())
+A, B= map(int, input().split())
 
-avg =  A+B / 2
-print(avg)
+sum = A+B
+avg =  sum / 2
+print(sum, avg)
