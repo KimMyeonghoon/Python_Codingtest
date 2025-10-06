@@ -9,5 +9,6 @@ if Y % 100 == 0 :
           else : 
                print("false") 
 else:
-     print("true")
+     if Y % 4 == 0 :
+          print("true")
      
