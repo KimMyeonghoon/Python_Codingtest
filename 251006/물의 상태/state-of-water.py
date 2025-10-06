@@ -1,8 +1,8 @@
 water = int(input())
 
-if 0 < water :
+if  water < 0 :
     print("ice")
 elif 0<= water <100 :
-    print("vapor")
+    print("vwater")
 else:
-    print("water")
+    print("vapor")
