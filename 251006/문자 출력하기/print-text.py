@@ -1,3 +1,4 @@
+num = str(input())
 
-for num in range(8):
-    print("G", end="")
+for i in range(8):
+    print(num, end="")
