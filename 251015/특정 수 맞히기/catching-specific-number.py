@@ -8,5 +8,5 @@ while count<3 :
         print("Lower")
     else:
         print("Good")
-        break
+
     
