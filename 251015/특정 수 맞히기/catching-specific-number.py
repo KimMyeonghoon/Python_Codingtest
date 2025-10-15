@@ -1,4 +1,3 @@
-
 count = 0 
 while count<3 :
     num=int(input())
